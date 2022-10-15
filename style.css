@@ -120,3 +120,41 @@ button:hover {
     padding: 3em 4em;
     font-size: 38px;
 }
+
+.sign-up {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5em 13em;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #3882F6;
+  padding: 3em;
+  width: 100%;
+  border-radius: 10px;
+}
+
+strong {
+  color: #fff;
+}
+
+.secondary {
+  color: #E5E7EB;
+}
+
+.container button {
+  border: 2px solid #fff;
+}
+
+footer {
+    background-color: #1f2937;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em 0;
+}
